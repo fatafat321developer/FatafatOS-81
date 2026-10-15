@@ -3,7 +3,7 @@
 > **NOT an Android ROM.** FatafatOS 81 is a pure x86 operating system for laptops and computers, built from scratch in Assembly and C. It was BUILT ON phone using Termux, but RUNS ON PC.
 
 **Type:** Desktop Operating System (x86) for Laptop / PC / VirtualBox / Limbo Emulator  
-**Size:** 50MB ISO | **Boot Time:** 2 Seconds | **Made In:** Elikatta, Telangana, India 🇮🇳  **Age:** 12
+**Size:** 50MB ISO | **Boot Time:** 2 Seconds | **Made In:** Elikatta, Telangana, India 🇮🇳  **Team:** FTT Fatafat321 Techforce Team 
 **Developer:** Fatafat321  
 
 ## What is FatafatOS 81?
